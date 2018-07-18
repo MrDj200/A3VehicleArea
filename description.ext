@@ -1,0 +1,3 @@
+class CfgFunctions {
+	#include "VehicleArea\functions.hpp"
+};
